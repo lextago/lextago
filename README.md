@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello👋
+I am a Computer Science Major student with Software Engineering concentration at the University of Illinois-Chicago expecting to graduate in May 2027. I am passionate about game design and programming with some experience in Roblox Studio. I am also interested in app development, having made my first app using Android Studio.
+
+
 
 <!--
 **lextago/lextago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
