@@ -1,6 +1,8 @@
 ## Hello👋
 I am a Computer Science Major student with Software Engineering concentration at the University of Illinois-Chicago expecting to graduate in May 2027. :school:
+
 I am passionate about game design and programming with some experience in Roblox Studio. :video_game:
+
 I am also interested in app development, having made my first app using Android Studio. :iphone:
 
 
