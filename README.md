@@ -5,6 +5,16 @@ I am passionate about game design and programming with some experience in Roblox
 
 I am also interested in app development, having made my first app using Android Studio. :iphone:
 
+<br>
+
+Things I am currently interested in learning about:
+---
+
+Game Development - Godot, Unity, Gamemaker Studio 2
+
+App Development - Swift, Flutter, React
+
+
 
 
 <!--
