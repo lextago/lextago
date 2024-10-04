@@ -1,8 +1,7 @@
 ## Hi I'm Alex!👋
 - I'm a Computer Science Major student at the University of Illinois-Chicago expecting to graduate in May 2027. :school:
-- I am passionate about game design and development, app development, and music production
-:video_game:
-:iphone:
+- I am passionate about game design/development, and app development. :video_game: :iphone:
+
 
 <br>
 
