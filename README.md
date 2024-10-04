@@ -9,10 +9,6 @@ Things I am interested in learning about:
 - Game Development - Godot, Unity, Gamemaker Studio 2
 - App Development - Swift, Flutter, React
 
-<br>
-
-You can contact me at alexetago@gmail.com
-
 
 
 
