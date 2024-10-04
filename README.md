@@ -1,13 +1,12 @@
-## Welcome to my profile!👋
-I am a Computer Science Major student with Software Engineering concentration at the University of Illinois-Chicago expecting to graduate in May 2027. :school:
-
-I am passionate about game design and programming with some experience in Roblox Studio. :video_game:
-
-I am also interested in app development, having made my first app using Android Studio. :iphone:
+## Hi I'm Alex!👋
+- I'm a Computer Science Major student at the University of Illinois-Chicago expecting to graduate in May 2027. :school:
+- I am passionate about game design and development, app development, and music production
+:video_game:
+:iphone:
 
 <br>
 
-Things I am currently interested in learning about:
+Things I am interested in learning about:
 ---
 
 Game Development - Godot, Unity, Gamemaker Studio 2
