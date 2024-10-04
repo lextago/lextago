@@ -2,14 +2,19 @@
 - I'm a Computer Science Major student at the University of Illinois-Chicago expecting to graduate in May 2027. :school:
 - I am passionate about game design/development, and app development. :video_game: :iphone:
 
-<br>
-
-Things I am interested in learning about:
+⚡Languages and Tools:
 ---
-- Game Development - Godot, Unity, Gamemaker Studio 2
-- App Development - Swift, Flutter, React
+- C/C++, Java, Python, Android Studio, Roblox Studio
 
+🌱 Currently Learning:
+---
+- Godot, Unity
 
+    <img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" width="48"> <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="48">
+
+🤔 Looking for help with:
+---
+- Learning about app development through Swift, React, and Flutter
 
 
 <!--
